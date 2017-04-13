@@ -1,0 +1,139 @@
+
+
+body {
+	width: 960px;
+	margin: auto;
+	padding: 0;
+	background: #e8eaed;
+	font-size: 18px;
+	line-height: 150%;
+	font-family: "Georgia", "Times New Roman", Times, serif;
+	color: #333333;
+	font-family: "Futura";
+	background-image: 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+    border-right: 1px solid: #bbb;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+header {
+	background: #5db4aa;
+	padding: 5px;
+    margin: 25px;
+}
+h1 {
+	padding: 8px 0;
+	color: white;
+	margin: 0;
+	font-size: 31px;
+	margin-bottom: -50px;
+	margin-bottom: 20px;
+}
+h2 {
+	font-size: 24px;
+	color: #5db4aa;
+}
+a {
+	color: #5db4aa;
+}
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+footer {
+	clear: both;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: lightgrey;
+	border-top-style: solid;
+	border-top-color: #666666;
+	border-top-width: 4px;
+	color: ;
+}
+p {
+	position: auto;
+}
+.topbox {
+	background: whit
+}
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+.nav{
+	float: right;
+}
+.bodywrapper {
+	width: 900px;
+}
+.wrapper {
+	float: left;
+    width: 467px;
+    margin: 56px;
+    margin-left: 50px;
+    padding: 5px;
+    background: white;
+    padding: 31px;
+}
+.linkedin {
+	padding: 
+}
+#main-bio {
+	width: 50%;
+	position: relative;
+    width: inherit;
+}
+#contact-info {
+	float: right;
+	background: white;
+    padding: 32px;
+	margin-top: 55px;
+
+}
+#bio-image {
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
+}
+
